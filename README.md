@@ -1,2 +1,1 @@
-mailspyder
-==========
+Another application to match mails
